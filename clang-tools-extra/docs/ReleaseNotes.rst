@@ -96,6 +96,10 @@ New checks
 
   Finds unintended character output from ``unsigned char`` and ``signed char`` to an
   ``ostream``.
+- New :doc:`bugprone-big-bitfield-shift
+  <clang-tidy/checks/bugprone/big-bitfield-shift>` check.
+
+  FIXME: Write a short description.
 
 New check aliases
 ^^^^^^^^^^^^^^^^^
